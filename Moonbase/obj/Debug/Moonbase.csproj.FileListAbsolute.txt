@@ -1,0 +1,11 @@
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.csproj.AssemblyReference.cache
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.csproj.SuggestedBindingRedirects.cache
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.Properties.Resources.resources
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.csproj.GenerateResource.cache
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.csproj.CoreCompileInputs.cache
+C:\Dev\c# class\Moonbase\Moonbase\bin\Debug\Moonbase.exe.config
+C:\Dev\c# class\Moonbase\Moonbase\bin\Debug\Moonbase.exe
+C:\Dev\c# class\Moonbase\Moonbase\bin\Debug\Moonbase.pdb
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.exe
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.pdb
+C:\Dev\c# class\Moonbase\Moonbase\obj\Debug\Moonbase.Aeris.resources
